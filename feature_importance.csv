@@ -1,0 +1,212 @@
+feature,importance
+customer_age,439
+monetary,254
+freq_per_month,190
+avg_spent_per_txn,177
+frequency,127
+device_Mobile,48
+region_Maine,22
+age_bin_mid,13
+gender_M,12
+region_New Hampshire,12
+device_region_Mobile_Nebraska,12
+region_Washington,11
+region_Hawaii,10
+region_Illinois,10
+device_Tablet,9
+region_Virginia,9
+region_Colorado,9
+region_Delaware,9
+region_Nebraska,8
+region_Arkansas,7
+region_Wisconsin,6
+region_North Carolina,6
+region_Tennessee,5
+region_Vermont,5
+region_Minnesota,5
+region_Kentucky,4
+region_Montana,3
+region_West Virginia,3
+region_Michigan,3
+region_New Jersey,2
+region_Maryland,2
+region_Oklahoma,1
+age_bin_veteran,1
+device_region_Mobile_Vermont,0
+device_region_Tablet_Colorado,0
+device_region_Tablet_Arizona,0
+device_region_Mobile_Wyoming,0
+device_region_Mobile_Wisconsin,0
+device_region_Mobile_South Carolina,0
+device_region_Mobile_West Virginia,0
+device_region_Mobile_South Dakota,0
+device_region_Tablet_Arkansas,0
+device_region_Mobile_Tennessee,0
+device_region_Mobile_Washington,0
+device_region_Mobile_Texas,0
+device_region_Mobile_Utah,0
+device_region_Mobile_Virginia,0
+device_region_Tablet_California,0
+device_region_Tablet_Alabama,0
+device_region_Tablet_Alaska,0
+device_region_Mobile_New Jersey,0
+device_region_Mobile_Rhode Island,0
+device_region_Mobile_Pennsylvania,0
+device_region_Mobile_Kansas,0
+device_region_Mobile_Kentucky,0
+device_region_Mobile_Louisiana,0
+device_region_Mobile_Maine,0
+device_region_Mobile_Maryland,0
+device_region_Mobile_Massachusetts,0
+device_region_Mobile_Michigan,0
+device_region_Mobile_Minnesota,0
+device_region_Mobile_Mississippi,0
+device_region_Mobile_Missouri,0
+device_region_Mobile_Montana,0
+device_region_Mobile_Nevada,0
+device_region_Mobile_New Hampshire,0
+device_region_Tablet_Delaware,0
+device_region_Mobile_New Mexico,0
+device_region_Mobile_New York,0
+device_region_Mobile_North Carolina,0
+device_region_Mobile_North Dakota,0
+device_region_Mobile_Ohio,0
+device_region_Mobile_Oklahoma,0
+device_region_Mobile_Oregon,0
+device_region_Tablet_Connecticut,0
+device_region_Tablet_Minnesota,0
+device_region_Tablet_Florida,0
+device_region_Tablet_Georgia,0
+device_region_Tablet_North Carolina,0
+device_region_Tablet_North Dakota,0
+device_region_Tablet_Ohio,0
+device_region_Tablet_Oklahoma,0
+device_region_Tablet_Oregon,0
+device_region_Tablet_Pennsylvania,0
+device_region_Tablet_Rhode Island,0
+device_region_Tablet_South Carolina,0
+device_region_Tablet_South Dakota,0
+device_region_Tablet_Tennessee,0
+device_region_Tablet_Texas,0
+device_region_Tablet_Utah,0
+device_region_Tablet_Vermont,0
+device_region_Tablet_Virginia,0
+device_region_Tablet_Washington,0
+device_region_Tablet_West Virginia,0
+device_region_Tablet_Wisconsin,0
+device_region_Tablet_Wyoming,0
+monetary_bin_medium,0
+device_region_Tablet_New York,0
+device_region_Tablet_New Mexico,0
+device_region_Tablet_New Jersey,0
+device_region_Tablet_Maine,0
+device_region_Tablet_Hawaii,0
+device_region_Tablet_Idaho,0
+device_region_Tablet_Illinois,0
+device_region_Tablet_Indiana,0
+device_region_Tablet_Iowa,0
+device_region_Tablet_Kansas,0
+device_region_Tablet_Kentucky,0
+device_region_Tablet_Louisiana,0
+device_region_Tablet_Maryland,0
+device_region_Tablet_New Hampshire,0
+device_region_Tablet_Massachusetts,0
+device_region_Tablet_Michigan,0
+device_region_Mobile_Indiana,0
+device_region_Tablet_Mississippi,0
+device_region_Tablet_Missouri,0
+device_region_Tablet_Montana,0
+device_region_Tablet_Nebraska,0
+device_region_Tablet_Nevada,0
+device_region_Mobile_Iowa,0
+device_region_Desktop_Wisconsin,0
+device_region_Mobile_Illinois,0
+region_Pennsylvania,0
+region_South Carolina,0
+region_South Dakota,0
+region_Texas,0
+region_Utah,0
+region_Wyoming,0
+device_region_Desktop_Alaska,0
+device_region_Desktop_Arizona,0
+device_region_Desktop_Arkansas,0
+device_region_Desktop_California,0
+device_region_Desktop_Colorado,0
+device_region_Desktop_Connecticut,0
+device_region_Desktop_Delaware,0
+device_region_Desktop_Florida,0
+device_region_Desktop_Georgia,0
+device_region_Desktop_Hawaii,0
+device_region_Desktop_Idaho,0
+device_region_Desktop_Illinois,0
+device_region_Desktop_Indiana,0
+device_region_Desktop_Iowa,0
+region_Rhode Island,0
+region_Oregon,0
+device_region_Mobile_Idaho,0
+region_Ohio,0
+is_high_value,0
+region_Alaska,0
+region_Arizona,0
+region_California,0
+region_Connecticut,0
+region_Florida,0
+region_Georgia,0
+region_Idaho,0
+region_Indiana,0
+region_Iowa,0
+region_Kansas,0
+region_Louisiana,0
+region_Massachusetts,0
+region_Mississippi,0
+region_Missouri,0
+region_Nevada,0
+region_New Mexico,0
+region_New York,0
+region_North Dakota,0
+device_region_Desktop_Kansas,0
+device_region_Desktop_Kentucky,0
+device_region_Desktop_Louisiana,0
+device_region_Desktop_Maine,0
+device_region_Desktop_Tennessee,0
+device_region_Desktop_Texas,0
+device_region_Desktop_Utah,0
+device_region_Desktop_Vermont,0
+device_region_Desktop_Virginia,0
+device_region_Desktop_Washington,0
+device_region_Desktop_West Virginia,0
+device_region_Desktop_Wyoming,0
+device_region_Mobile_Alabama,0
+device_region_Mobile_Alaska,0
+device_region_Mobile_Arizona,0
+device_region_Mobile_Arkansas,0
+device_region_Mobile_California,0
+device_region_Mobile_Colorado,0
+device_region_Mobile_Connecticut,0
+device_region_Mobile_Delaware,0
+device_region_Mobile_Florida,0
+device_region_Mobile_Georgia,0
+device_region_Mobile_Hawaii,0
+device_region_Desktop_South Dakota,0
+device_region_Desktop_South Carolina,0
+device_region_Desktop_Rhode Island,0
+device_region_Desktop_Nevada,0
+device_region_Desktop_Maryland,0
+device_region_Desktop_Massachusetts,0
+device_region_Desktop_Michigan,0
+device_region_Desktop_Minnesota,0
+device_region_Desktop_Mississippi,0
+device_region_Desktop_Missouri,0
+device_region_Desktop_Montana,0
+device_region_Desktop_Nebraska,0
+device_region_Desktop_New Hampshire,0
+device_region_Desktop_Pennsylvania,0
+device_region_Desktop_New Jersey,0
+device_region_Desktop_New Mexico,0
+device_region_Desktop_New York,0
+device_region_Desktop_North Carolina,0
+device_region_Desktop_North Dakota,0
+device_region_Desktop_Ohio,0
+device_region_Desktop_Oklahoma,0
+device_region_Desktop_Oregon,0
+monetary_bin_high,0
